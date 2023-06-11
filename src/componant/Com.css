@@ -1,0 +1,23 @@
+.ul{
+ background-color: black;
+ height: 50px;
+ font-size: 30px;
+
+ 
+
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+a:hover{
+    background-color: greenyellow;
+    color: black;
+}
+h1:hover{
+    background-color: aquamarine;
+}
+.rect{
+    border: 1px solid black;
+}
